@@ -1,1 +1,1 @@
-# qaltum.net
+# qaltum
